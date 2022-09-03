@@ -29,7 +29,8 @@
 		"redhat.vscode-quarkus",
 		"ggrebert.quarkus-snippets",
 		"redhat.vscode-xml",
-		"redhat.vscode-yaml"
+		"redhat.vscode-yaml",
+		"mhutchie.git-graph"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
